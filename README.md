@@ -6,3 +6,6 @@
 ## 技術情報
 * wikiにアップしていきます。　https://github.com/i386koba/CelluCon.kicad/wiki
 * Arduinoで手作りした場合 https://github.com/i386koba/Droidrone-ino
+
+## 回路図 
+![image](https://github.com/i386koba/CelluCon.kicad/blob/master/CellularRC.sch.svg)
