@@ -9,3 +9,6 @@
 
 ## 回路図 
 ![image](https://github.com/i386koba/CelluCon.kicad/blob/master/CellularRC.sch.svg)
+
+## 基板製造図
+![image](https://github.com/i386koba/CelluCon.kicad/blob/master/CellularRC-brd.svg)
