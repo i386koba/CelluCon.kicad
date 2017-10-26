@@ -1,4 +1,4 @@
-# CellularRC.kicad
+# CelluCon.kicad
 * ラジコンに乗せたアンドロイド端末からBluetoothで制御信号を受信しラジコンのサーボなどを動かすための基板データーです。
 * この基板単体ではセラコン動きません。セルコン プロジェクト全体は https://github.com/cellucon/ より参照ください。
 * KiCAD のプロジェクトファイルです。
@@ -12,3 +12,5 @@
 
 ## 基板製造図
 ![image](https://github.com/i386koba/CelluCon.kicad/blob/master/CellularRC-brd.svg)
+
+test
